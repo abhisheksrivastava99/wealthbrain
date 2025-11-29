@@ -1,0 +1,51 @@
+Asset_ID,Asset_Name,Asset_Class,Location,Value_USD,Custodian,Liquidity,Entity_Owner,Family
+A001,DBS High-Yield Account,Cash,Singapore,2500000.00,DBS,High,Wayne Family Trust,Wayne
+A002,Tesla Inc (TSLA),Equities,USA,1200000.00,Goldman Sachs,High,Wayne Family Trust,Wayne
+A003,Mayfair Villa,Real Estate,UK,8500000.00,Savills,Illiquid,Wayne Family Trust,Wayne
+A004,SpaceX Private Shares,Private Equity,USA,3000000.00,Morgan Stanley,Illiquid,Wayne Family Trust,Wayne
+A005,UBS Gold Vault,Commodities,Switzerland,500000.00,UBS,Medium,Wayne Family Trust,Wayne
+A006,Basquiat Painting,Art,USA,4500000.00,Freeport,Illiquid,Wayne Family Trust,Wayne
+A007,Singapore Gov Bonds,Fixed Income,Singapore,1000000.00,DBS,Medium,Wayne Family Trust,Wayne
+A008,Gotham Tech Fund,Private Equity,USA,2000000.00,Wayne Enterprises,Illiquid,Wayne Family Trust,Wayne
+A009,Kryptonite Futures,Commodities,USA,150000.00,LexCorp,High,Wayne Family Trust,Wayne
+A010,Batmobile Collection,Collectibles,USA,5000000.00,Wayne Manor,Illiquid,Wayne Family Trust,Wayne
+L001,Casterly Rock Gold Mines,Commodities,Westeros,50000000.00,Iron Bank,Medium,Lannister House,Lannister
+L002,Kings Landing Real Estate,Real Estate,Westeros,20000000.00,Red Keep,Illiquid,Lannister House,Lannister
+L003,Lannister Army Bonds,Fixed Income,Westeros,10000000.00,Iron Bank,High,Lannister House,Lannister
+L004,Wildfire Stock,Equities,Westeros,5000000.00,Alchemists Guild,High,Lannister House,Lannister
+L005,Golden Hand Prosthetics,Private Equity,Westeros,1000000.00,Qyburn Labs,Illiquid,Lannister House,Lannister
+L006,Braavos Trade Fleet,Private Equity,Essos,8000000.00,Iron Bank,Medium,Lannister House,Lannister
+L007,Lion's Share ETF,Equities,Westeros,15000000.00,Lannister Corp,High,Lannister House,Lannister
+L008,Harrenhal Ruins,Real Estate,Westeros,500000.00,Littlefinger,Illiquid,Lannister House,Lannister
+L009,Valyrian Steel Sword (Oathkeeper),Collectibles,Westeros,3000000.00,Brienne,Illiquid,Lannister House,Lannister
+L010,Wine Vineyards (The Arbor),Real Estate,Westeros,6000000.00,Redwyne,Illiquid,Lannister House,Lannister
+S001,Winterfell Castle,Real Estate,North,15000000.00,Stark Trust,Illiquid,Stark House,Stark
+S002,Direwolf Breeding Program,Private Equity,North,500000.00,Jon Snow,Illiquid,Stark House,Stark
+S003,North Timber Co,Equities,North,2000000.00,Glover,Medium,Stark House,Stark
+S004,Ice Sword (Reforged),Collectibles,North,4000000.00,Stark Trust,Illiquid,Stark House,Stark
+S005,Wall Maintenance Bonds,Fixed Income,North,1000000.00,Nights Watch,Low,Stark House,Stark
+S006,Glass Gardens,Real Estate,North,3000000.00,Stark Trust,Illiquid,Stark House,Stark
+S007,White Harbor Port Authority,Equities,North,5000000.00,Manderly,High,Stark House,Stark
+S008,Crypts of Winterfell,Real Estate,North,10000000.00,Stark Trust,Illiquid,Stark House,Stark
+S009,Weirwood Saplings,Commodities,North,200000.00,Children of Forest,Illiquid,Stark House,Stark
+S010,Fur Trade Routes,Private Equity,North,1500000.00,Karstark,Medium,Stark House,Stark
+T001,Dragon Eggs (Petrified),Collectibles,Essos,100000000.00,Illyrio,Illiquid,Targaryen House,Targaryen
+T002,Dragonstone Castle,Real Estate,Westeros,12000000.00,Stannis,Illiquid,Targaryen House,Targaryen
+T003,Unsullied Mercenary Corp,Private Equity,Essos,50000000.00,Astapor,Medium,Targaryen House,Targaryen
+T004,Iron Throne Claims,Fixed Income,Westeros,1.00,Kings Landing,Illiquid,Targaryen House,Targaryen
+T005,Valyrian Steel Dagger,Collectibles,Westeros,2000000.00,Littlefinger,Illiquid,Targaryen House,Targaryen
+T006,Meereen Pyramid,Real Estate,Essos,25000000.00,Great Masters,Illiquid,Targaryen House,Targaryen
+T007,Dothraki Horde Logistics,Private Equity,Essos,10000000.00,Khal Drogo,Medium,Targaryen House,Targaryen
+T008,Red Keep Renovation Fund,Fixed Income,Westeros,5000000.00,Iron Bank,High,Targaryen House,Targaryen
+T009,Black Dread Skull,Collectibles,Westeros,15000000.00,Red Keep,Illiquid,Targaryen House,Targaryen
+T010,Wildfire Cache,Commodities,Westeros,8000000.00,Alchemists,Illiquid,Targaryen House,Targaryen
+B001,Storm's End Castle,Real Estate,Stormlands,18000000.00,Baratheon Trust,Illiquid,Baratheon House,Baratheon
+B002,Warhammer (Robert's),Collectibles,Westeros,1000000.00,Baratheon Trust,Illiquid,Baratheon House,Baratheon
+B003,Stag Ale Breweries,Equities,Westeros,4000000.00,Baratheon Corp,High,Baratheon House,Baratheon
+B004,Iron Bank Loan (Liability),Fixed Income,Braavos,-10000000.00,Iron Bank,High,Baratheon House,Baratheon
+B005,Royal Hunting Grounds,Real Estate,Kingswood,5000000.00,Crown,Illiquid,Baratheon House,Baratheon
+B006,Tourney Sponsorships,Private Equity,Westeros,2000000.00,Tyrell,Medium,Baratheon House,Baratheon
+B007,Crown Jewels,Collectibles,Westeros,50000000.00,Red Keep,Illiquid,Baratheon House,Baratheon
+B008,Dragonstone Naval Fleet,Private Equity,Westeros,8000000.00,Stannis,Medium,Baratheon House,Baratheon
+B009,Stormlands Port,Equities,Stormlands,6000000.00,Tarth,High,Baratheon House,Baratheon
+B010,Renly's Wardrobe,Collectibles,Westeros,500000.00,Highgarden,Illiquid,Baratheon House,Baratheon

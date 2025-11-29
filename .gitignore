@@ -1,0 +1,18 @@
+# Environment Variables (CRITICAL: Do not remove)
+.env
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS specific
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
