@@ -4,8 +4,17 @@ from dotenv import load_dotenv
 from agents.router import RouterAgent
 import pandas as pd
 
+
 # Load environment variables
 load_dotenv()
+
+# Streamlit Cloud Compatibility: Load secrets into os.environ
+# This ensures agents using os.getenv() work on Streamlit Cloud
+if hasattr(st, "secrets"):
+    if "OPENAI_API_KEY" in st.secrets:
+        os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+    if "PERPLEXITY_API_KEY" in st.secrets:
+        os.environ["PERPLEXITY_API_KEY"] = st.secrets["PERPLEXITY_API_KEY"]
 
 # Page Config
 st.set_page_config(
