@@ -6,7 +6,7 @@ Built with **Python**, **Streamlit**, and **LangChain**, it employs a **Router-A
 
 ---
 
-## 🚀 Features
+##  Features
 
 *   **Multi-Family Support**: Manage multiple family offices (Wayne, Lannister, Stark, Targaryen, Baratheon) with isolated data contexts.
 *   **Hybrid RAG System**: Combines structured data analysis (SQL/CSV) with unstructured document retrieval (Vector RAG).
@@ -19,7 +19,7 @@ Built with **Python**, **Streamlit**, and **LangChain**, it employs a **Router-A
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 *   **Frontend**: Streamlit (Custom CSS & Theming)
 *   **Orchestration**: LangChain
@@ -29,7 +29,7 @@ Built with **Python**, **Streamlit**, and **LangChain**, it employs a **Router-A
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1.  **Clone the repository**:
     ```bash
